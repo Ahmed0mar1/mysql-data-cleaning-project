@@ -100,22 +100,7 @@ Temporary helper columns are dropped after cleaning.
 
 ---
 
-## Project Structure
 
-```
-├── data/
-│   └── layoffs.csv
-│
-├── sql/
-│   └── data_cleaning.sql
-│
-├── screenshots/
-│   ├── duplicate_check.png
-│   ├── cleaning_steps.png
-│   └── final_table.png
-│
-└── README.md
-```
 
 ---
 
@@ -131,27 +116,4 @@ Temporary helper columns are dropped after cleaning.
 
 ---
 
-## Future Improvements
 
-- Exploratory Data Analysis (EDA)
-- Dashboard using Power BI
-- Automated cleaning procedures
-- SQL Stored Procedures
-- Data Quality Validation
-
----
-
-## Author
-
-Ahmed Mansour
-
-Civil Engineer | Data Analyst
-
-LinkedIn:
-(Add your LinkedIn URL)
-
----
-
-## License
-
-This project is available under the MIT License.
